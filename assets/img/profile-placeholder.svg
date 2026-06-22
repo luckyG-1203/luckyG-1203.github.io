@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="368" height="448" viewBox="0 0 368 448" role="img" aria-labelledby="title desc">
+  <title id="title">Profile placeholder</title>
+  <desc id="desc">A neutral placeholder portrait for Qiannan Guo.</desc>
+  <rect width="368" height="448" fill="#f2f2f2"/>
+  <circle cx="184" cy="154" r="68" fill="#d3d3d3"/>
+  <path d="M82 382c10-72 56-116 102-116s92 44 102 116" fill="#d3d3d3"/>
+  <rect x="0.5" y="0.5" width="367" height="447" fill="none" stroke="#c9c9c9"/>
+</svg>
