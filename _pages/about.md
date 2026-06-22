@@ -48,9 +48,10 @@ This work introduces a benchmark and framework for underwater multiple fish trac
 </div>
 </div>
 
-# 🍃 Awards
+# 🏆 Honors
 
-- More information will be updated soon.
+- *2025*: Outstanding Graduate of China Agricultural University.
+- *2021*: National Scholarship for Undergraduate Students.
 
 # 🎞️ Experience
 
