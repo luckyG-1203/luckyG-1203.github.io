@@ -16,15 +16,15 @@ redirect_from:
 
 # 🎓 Educations
 
-- <a href="https://www.bnu.edu.cn/"><img class="svg" src="/assets/images/bnu.svg" width="23pt"></a> **Ph.D. Student, School of Artificial Intelligence, Beijing Normal University @ [BNU-IVC](https://github.com/BNU-IVC)**
+- <a href="https://www.bnu.edu.cn/"><img class="svg" src="/assets/images/bnu.svg" width="23pt"></a> **Ph.D. Student, School of Artificial Intelligence, Beijing Normal University @ [BNU-IVC.](https://github.com/BNU-IVC)**
 
   *2025.09 - Present*
 
-- <a href="https://www.cau.edu.cn/"><img class="png" src="/assets/images/cau.png" width="23pt"></a> **M.S., China Agricultural University, VALab**
+- <a href="https://www.cau.edu.cn/"><img class="png" src="/assets/images/cau.png" width="23pt"></a> **M.S., China Agricultural University, VALab.**
 
   *2023.09 - 2025.06*
 
-- <a href="http://www.hrbnu.edu.cn/"><img class="png" src="/assets/images/hrbnu.png" width="23pt"></a> **B.S., Harbin Normal University**
+- <a href="http://www.hrbnu.edu.cn/"><img class="png" src="/assets/images/hrbnu.png" width="23pt"></a> **B.S., Harbin Normal University.**
 
   *2019.09 - 2023.06*
 
