@@ -33,7 +33,7 @@ redirect_from:
 
 - *2025.11*: 🎉 One paper has been accepted by **AAAI 2026** (CCF-A, Oral, Co-Author).
 
-# 🧩 Publications
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='assets/images/fish-aaai26.png' alt="Underwater multiple fish tracking" width="100%"></div></div>
 
@@ -43,15 +43,15 @@ redirect_from:
 
 Weiran Li, Yeqiang Liu, ***Qiannan Guo***, Yijie Wei, Hwa Liang Leo, Zhenbo Li<sup>†</sup>
 
-[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/37574)<br/>
+[**[📜Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/37574)<br/>
 This work introduces a benchmark and framework for underwater multiple fish tracking.
 </div>
 </div>
 
 # 🏆 Honors
 
-- *2025*: Outstanding Graduate of China Agricultural University.
-- *2021*: National Scholarship for Undergraduate Students.
+- Outstanding Graduate of China Agricultural University, *May 2025*.
+- National Scholarship for Undergraduate Students, *Dec 2021*.
 
 # 🎞️ Experience
 
