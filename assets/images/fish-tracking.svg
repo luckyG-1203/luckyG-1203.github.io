@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Underwater multiple fish tracking placeholder</title>
+  <desc id="desc">A simple academic-style illustration for underwater multiple fish tracking.</desc>
+  <rect width="900" height="520" fill="#eef6fb"/>
+  <path d="M0 142c120-46 242-46 365 0s246 46 370 0 178-38 165-25v403H0z" fill="#d9edf7"/>
+  <path d="M0 236c140-36 263-36 370 0s230 36 370 0 160-30 160-17v301H0z" fill="#c7e4f2"/>
+  <g fill="none" stroke="#1f5f89" stroke-width="5" opacity=".78">
+    <rect x="110" y="150" width="148" height="82" rx="10"/>
+    <rect x="365" y="252" width="176" height="96" rx="10"/>
+    <rect x="620" y="132" width="150" height="86" rx="10"/>
+  </g>
+  <g fill="#2f7fa7">
+    <path d="M160 190c34-30 72-30 106 0-34 30-72 30-106 0z"/>
+    <path d="M152 190l-38-25v50z"/>
+    <circle cx="239" cy="183" r="6" fill="#0f3851"/>
+    <path d="M420 300c42-35 88-35 130 0-42 35-88 35-130 0z"/>
+    <path d="M410 300l-48-31v62z"/>
+    <circle cx="520" cy="292" r="7" fill="#0f3851"/>
+    <path d="M660 176c34-28 70-28 104 0-34 28-70 28-104 0z"/>
+    <path d="M652 176l-38-24v48z"/>
+    <circle cx="738" cy="169" r="6" fill="#0f3851"/>
+  </g>
+  <g stroke="#e46c4f" stroke-width="4" fill="none" stroke-dasharray="12 10" opacity=".9">
+    <path d="M259 190c52 24 82 58 106 105"/>
+    <path d="M542 300c42-58 72-90 113-115"/>
+  </g>
+  <g fill="#ffffff" opacity=".85">
+    <circle cx="102" cy="92" r="10"/>
+    <circle cx="142" cy="62" r="7"/>
+    <circle cx="716" cy="316" r="11"/>
+    <circle cx="762" cy="278" r="8"/>
+    <circle cx="812" cy="354" r="6"/>
+  </g>
+</svg>
