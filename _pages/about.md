@@ -20,11 +20,11 @@ redirect_from:
 
   *2025.09 - Present*
 
-- <a href="https://www.cau.edu.cn/"><img class="png" src="/assets/images/cau.png" width="23pt"></a> **M.S., China Agricultural University, VALab.**
+- <a href="https://www.cau.edu.cn/"><img class="png" src="/assets/images/cau.png" width="23pt"></a> **M.S., College of Information and Electrical Engineering, China Agricultural University @ VALab.**
 
   *2023.09 - 2025.06*
 
-- <a href="http://www.hrbnu.edu.cn/"><img class="png" src="/assets/images/hrbnu.png" width="23pt"></a> **B.S., Harbin Normal University.**
+- <a href="http://www.hrbnu.edu.cn/"><img class="png" src="/assets/images/hrbnu.png" width="23pt"></a> **B.S., College of Computer Science and Information Engineering, Harbin Normal University.**
 
   *2019.09 - 2023.06*
 
